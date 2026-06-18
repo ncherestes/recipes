@@ -6,3 +6,4 @@
 * salt
 ## Instructions
 * Chop the avocado
+* Sprinkle with salt
